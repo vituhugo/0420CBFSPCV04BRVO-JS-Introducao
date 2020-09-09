@@ -9,7 +9,7 @@ function mostrarAlertaComShow() {
 
 function desapareceComOAlerta() {
     // TODO: Remover a classe show do alerta-2
-    // 
+    //       Para executar essa função clique em cima do alerta
 }
 
 function adicionar() {
@@ -25,21 +25,21 @@ function subtrair() {
 }
 
 function multiplicar() {
-    // Multiplicar e exibir no resultado
+    // TODO: Multiplicar e exibir no resultado
     document.getElementById('resultado').innerHTML = '?';
 }
 
 function dividir() {
-    // Dividir e exibir no resultado
+    // TODO: Dividir e exibir no resultado
     document.getElementById('resultado').innerHTML = '?';
 }
 
 function elevar() {
-    // Captura os valores dos dois campos ( através da propriedade "value" de um elemento input )
-    // E elevar o primeiro a potência do segundo ( Tentei dar uma googlada, vao precisar usar o objeto "Math" )
+    // TODO: Captura os valores dos dois campos ( através da propriedade "value" de um elemento input )
+    //       E elevar o primeiro a potência do segundo ( Tentei dar uma googlada, vao precisar usar o objeto "Math" )
     //
-    // Exemplo: value_1 = 10, value_2 = 2
-    // 10² = 100
-    
+    //       Exemplo: value_1 = 10, value_2 = 2
+    //       10² = 100
+
     document.getElementById('resultado').innerHTML = '?';
 }
