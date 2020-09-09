@@ -1,5 +1,7 @@
 ## Começando com javascript:
 
+Como introdução da aula teremos os seguintes exercícios:
+
 1. Monte sua página HTML que esteja incluido um script.js
 
 2. Adicione um console.log passando um texto "Olá mundo" e veja se ele aparece no console do seu navegador. (Lembre-se que tem que atualizar a página para ver o resultado)
