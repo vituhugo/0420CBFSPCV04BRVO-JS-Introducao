@@ -1,4 +1,4 @@
-##Começando com javascript:
+## Começando com javascript:
 
 1. Monte sua página HTML que esteja incluido um script.js
 
